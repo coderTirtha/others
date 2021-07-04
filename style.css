@@ -83,7 +83,8 @@ h1 {
 }
 .link {
     text-decoration: none;
-    color: coral;
+    color: #ffe2a6;
+    font-weight: bolder;
 }
 .link:hover {
     color: aqua;
